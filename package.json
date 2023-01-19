@@ -1,8 +1,8 @@
 {
-  "name": "Sample",
+  "name": "test",
   "version": "2.0.0",
   "type": "module",
-  "description": "Шаблон",
+  "description": "Тестовое задание для FunBox",
   "browserslist": [
     "last 3 versions",
     "IE 11",

@@ -4,6 +4,7 @@ $ff-exo: "Exo 2", "Arial", sans-serif;
 $ff-trebuchet: "Trebuchet", "Arial", sans-serif;
 $ff-trebuchet-bold: "Trebuchet Bold", "Arial", sans-serif;
 
+
 // Цвета
 
 $color-default-black: #000000;
@@ -14,15 +15,12 @@ $color-pink: #d91667;
 $color-pink-hover: #e52e7a;
 $color-bg-gray: #f2f2f2;
 $color-yellow: #ffff66;
+$color-grey: #666666;
+$color-disabled: #b3b3b3;
+$bg-gradient: linear-gradient(180deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 5e-05) 49.88%, rgba(0, 0, 0, 0.5) 100%);
 
 
 // Размер вьюпорта
 
-$vp-320:                            320px;
-$vp-1024:                           1024px;
-$vp-1920:                           1920px;
-
-// Retina
-
-$retina-dpi:                        144dpi;
-$retina-dppx:                       1.5dppx;
+$vp-768: 768px;
+$vp-1280: 1280px;
